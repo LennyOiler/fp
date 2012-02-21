@@ -25,6 +25,7 @@
 
 /* Must be an even number. */
 #define FP_DIGITS 14
+#define FP_PI 4
 
 /* Floating-point format. */
 typedef struct {
